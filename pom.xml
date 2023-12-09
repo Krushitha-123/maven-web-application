@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>krushitha-release</name>
+	      <url>http://47.128.151.215:8081/repository/krushitha-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>krushitha-snapshot</name>
+	      <url>http://47.128.151.215:8081/repository/krushitha-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
